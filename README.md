@@ -1,4 +1,5 @@
 # social-media-dashboard
 
 <h3>•° Dark/Light Theme Switcher</h3>
-Technologies: Html5, CSS3 and Js
+Technologies: <i>Html5, CSS3</i> and <i>Js</i>
+Font: <b><i>Inter</i></b>
